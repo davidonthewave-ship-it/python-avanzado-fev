@@ -57,16 +57,6 @@ code .
 
 ---
 
-## 🧠 Evaluación sugerida
-
-| Tipo de actividad            | Descripción                                            | Peso |
-| :--------------------------- | :----------------------------------------------------- | :--: |
-| Cuestionario teórico         | Preguntas sobre ámbito, *args, **kwargs y closures     | 25 % |
-| Ejercicios guiados (3.1–3.3) | Desarrollo y comprensión práctica de funciones         | 35 % |
-| Laboratorio 3.4              | Proyecto integrador: sistema con decoradores aplicados | 40 % |
-
----
-
 ## 📚 Recursos y referencias
 
 * [Documentación oficial de Python — Defining Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
